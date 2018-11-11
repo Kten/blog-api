@@ -1,5 +1,7 @@
 package com.theodore.blog.api.controller.board;
 
-@RestCon
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
 public class BoardController {
 }
